@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="client"/>
+	<classpathentry kind="src" path="procedure"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Modified Java 8">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/seetasomagani/voltdb/voltdb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/avro-1.7.7.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/felix.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/groovy-all-2.1.7-indy.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/httpasyncclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/httpclient-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/httpcore-nio-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jetty-continuation-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jetty-http-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jetty-io-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jetty-server-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jetty-util-9.3.6.v20151106.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jline-2.10.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jna.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/lz4-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/owner-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/owner-java8-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/slf4j-nop-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/snappy-java-1.1.1.7.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/super-csv-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/lib/tomcat-juli.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/voltdb/voltdb-6.8.jar"/>
+	<classpathentry kind="lib" path="/Users/seetasomagani/voltdb/voltdb/voltdbclient-6.8.jar"/>
+	<classpathentry kind="lib" path="lib/VoltDBProcedureTestUtils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
